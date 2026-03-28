@@ -23,26 +23,3 @@ Module Summaries
 Links
 Google Form Quiz : https://docs.google.com/forms/d/e/1FAIpQLSdQoDRl_4WYeYenIzAOl2kbqa-AtMVIrUztb9nT3bkFheRObQ/viewform?usp=header
 
-
-Folder Structure:
-digital-literacy-project/
-├── README.md
-├── task-1-presentation/
-├── task-2-portfolio/
-│ ├── github-profile.png
-│ ├── linkedin-profile.png
-│ └── kaggle-profile.png
-├── task-3-platforms/
-│ ├── hackerrank-challenge.png
-│ ├── google-form.png
-│ └── google-sheet-response.png
-├── task-4-email-etiquette/
-│ ├── email-extension-request.pdf
-│ ├── email-internship-interest.pdf
-│ └── social-media-checklist.pdf
-├── task-5-cybercrime/
-│ ├── casestudy.pdf
-│ └── prevention-checklist.pdf
-└── report/
-└── Project_Report.pdf
-
